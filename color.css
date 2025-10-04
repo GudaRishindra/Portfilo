@@ -1,0 +1,12 @@
+h2{
+    color: blue;
+}
+label[for="Username"]{
+    color: red;
+}
+label[for="password"]{
+    color: skyblue
+}
+label[for="LOGIN"]{
+    color: orange;
+}
